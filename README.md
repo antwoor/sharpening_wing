@@ -21,7 +21,6 @@
     cd ~/moveit_ws
     rosdep install --from-paths src --ignore-src -r -y
     ```
-
 3. Compile the package:
     ```sh
     catkin init
@@ -29,17 +28,34 @@
     ```
 
 ## Usage
-1. source setup.$(YOUR_SHELL_NAME):
+1. source python scripts for different trajectories
     ```sh
+    cd ~/moveit_ws/src/moveit_solid_robot/src
+    python3 tokenizer.py
+    python3 rotator.py
+    python3 unirotator.py
+    ```
+2. change links in .cpp files of moveit_solid_robot/src to yours
+   example
+   from
+   ```
+   std::ifstream infile("/home/antwoor/moveit_ws/src/moveit_solid_robot/src/merged_df.txt");
+   ```
+   to
+   ```
+   std::ifstream infile("/home/$(USER_NAME)/moveit_ws/src/moveit_solid_robot/src/merged_df.txt");
+4. source setup.$(YOUR_SHELL_NAME):
+    ```sh
+    
     source ~/moveit/devel/setup.bash
     ```
 
-2. Launch package with any granted .launch file:
+5. Launch package with any granted .launch file:
     ```sh
     roslaunch moveit_solid_robot demo_cutter_launch
     ```
 
-3. open new terminal and run trajectory command
+6. open new terminal and run trajectory command
    ```sh
    rosrun moveit_solid_robot trajectory_4
    ```
