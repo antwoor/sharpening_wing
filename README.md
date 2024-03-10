@@ -11,7 +11,7 @@
 1. Clone the repository into your catkin home directory:
     ```sh
     cd ~/
-    git clone <repository link>
+    git clone https://github.com/antwoor/sharpening_wing.git
     cd moveit_ws
 
     ```
