@@ -1,0 +1,5 @@
+import_your_custom_urdf_package_to_ROS-main/movit_robot_arm_sim
+/home/antwoor/moveit_ws/devel/.private/movit_robot_arm_sim/cmake.lock /home/antwoor/moveit_ws/devel/./cmake.lock
+/home/antwoor/moveit_ws/devel/.private/movit_robot_arm_sim/lib/pkgconfig/movit_robot_arm_sim.pc /home/antwoor/moveit_ws/devel/lib/pkgconfig/movit_robot_arm_sim.pc
+/home/antwoor/moveit_ws/devel/.private/movit_robot_arm_sim/share/movit_robot_arm_sim/cmake/movit_robot_arm_simConfig.cmake /home/antwoor/moveit_ws/devel/share/movit_robot_arm_sim/cmake/movit_robot_arm_simConfig.cmake
+/home/antwoor/moveit_ws/devel/.private/movit_robot_arm_sim/share/movit_robot_arm_sim/cmake/movit_robot_arm_simConfig-version.cmake /home/antwoor/moveit_ws/devel/share/movit_robot_arm_sim/cmake/movit_robot_arm_simConfig-version.cmake

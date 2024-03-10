@@ -1,0 +1,8 @@
+prefix=/home/antwoor/moveit_ws/install
+
+Name: moveit_solid_robot
+Description: Description of moveit_solid_robot
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp moveit_core moveit_visual_tools moveit_ros_planning moveit_ros_planning_interface

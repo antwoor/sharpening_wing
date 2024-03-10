@@ -1,0 +1,5 @@
+stone
+/home/antwoor/moveit_ws/devel/.private/stone/cmake.lock /home/antwoor/moveit_ws/devel/./cmake.lock
+/home/antwoor/moveit_ws/devel/.private/stone/lib/pkgconfig/stone.pc /home/antwoor/moveit_ws/devel/lib/pkgconfig/stone.pc
+/home/antwoor/moveit_ws/devel/.private/stone/share/stone/cmake/stoneConfig-version.cmake /home/antwoor/moveit_ws/devel/share/stone/cmake/stoneConfig-version.cmake
+/home/antwoor/moveit_ws/devel/.private/stone/share/stone/cmake/stoneConfig.cmake /home/antwoor/moveit_ws/devel/share/stone/cmake/stoneConfig.cmake

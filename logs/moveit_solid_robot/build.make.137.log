@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target trajectory_3[0m
+[ 33%] Built target trajectory_2
+[ 66%] Built target trajectory_1
+[ 83%] [32mBuilding CXX object CMakeFiles/trajectory_3.dir/src/trajectory_3.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/antwoor/moveit_ws/devel/.private/moveit_solid_robot/lib/moveit_solid_robot/trajectory_3[0m
+[100%] Built target trajectory_3

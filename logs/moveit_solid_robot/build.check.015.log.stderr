@@ -1,0 +1,12 @@
+[31m[1mCMake Error[0m at /home/antwoor/moveit_ws/src/moveit_solid_robot/CMakeLists.txt:24 (add_executable):
+  The target name "src/my_moveit_program.cpp" is reserved or not valid for
+  certain CMake features, such as generator expressions, and may result in
+  undefined behavior.
+
+
+[31m[1mCMake Error[0m at /home/antwoor/moveit_ws/src/moveit_solid_robot/CMakeLists.txt:25 (target_link_libraries):
+  Cannot specify link libraries for target "my_moveit_program" which is not
+  built by this project.
+
+
+make: *** [Makefile:334: cmake_check_build_system] Error 1

@@ -1,0 +1,6 @@
+devel_space: /home/antwoor/moveit_ws/devel
+install: false
+install_space: /home/antwoor/moveit_ws/install
+profile: default
+source_space: /home/antwoor/moveit_ws/src
+workspace: /home/antwoor/moveit_ws

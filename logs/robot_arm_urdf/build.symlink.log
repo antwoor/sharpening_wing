@@ -1,0 +1,3 @@
+Symlinking /home/antwoor/moveit_ws/devel/lib/pkgconfig/robot_arm_urdf.pc
+Symlinking /home/antwoor/moveit_ws/devel/share/robot_arm_urdf/cmake/robot_arm_urdfConfig.cmake
+Symlinking /home/antwoor/moveit_ws/devel/share/robot_arm_urdf/cmake/robot_arm_urdfConfig-version.cmake

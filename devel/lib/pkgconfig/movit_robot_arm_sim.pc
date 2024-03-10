@@ -1,0 +1,1 @@
+/home/antwoor/moveit_ws/devel/.private/movit_robot_arm_sim/lib/pkgconfig/movit_robot_arm_sim.pc

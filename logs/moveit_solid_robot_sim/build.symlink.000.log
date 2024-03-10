@@ -1,0 +1,3 @@
+Symlinking /home/antwoor/moveit_ws/devel/lib/pkgconfig/moveit_solid_robot_sim.pc
+Symlinking /home/antwoor/moveit_ws/devel/share/moveit_solid_robot_sim/cmake/moveit_solid_robot_simConfig.cmake
+Symlinking /home/antwoor/moveit_ws/devel/share/moveit_solid_robot_sim/cmake/moveit_solid_robot_simConfig-version.cmake

@@ -1,0 +1,4 @@
+make[2]: *** No rule to make target '/home/antwoor/moveit_ws/src/moveit_solid_robot/src/texter.cpp', needed by 'CMakeFiles/text.dir/src/texter.cpp.o'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:2478: CMakeFiles/text.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [Makefile:141: all] Error 2

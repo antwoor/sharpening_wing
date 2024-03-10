@@ -1,0 +1,1 @@
+/home/antwoor/moveit_ws/devel/.private/moveit_solid_robot_sim/share/moveit_solid_robot_sim/cmake/moveit_solid_robot_simConfig-version.cmake

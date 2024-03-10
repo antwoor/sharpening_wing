@@ -1,0 +1,5 @@
+solid_robot
+/home/antwoor/moveit_ws/devel/.private/solid_robot/cmake.lock /home/antwoor/moveit_ws/devel/./cmake.lock
+/home/antwoor/moveit_ws/devel/.private/solid_robot/lib/pkgconfig/solid_robot.pc /home/antwoor/moveit_ws/devel/lib/pkgconfig/solid_robot.pc
+/home/antwoor/moveit_ws/devel/.private/solid_robot/share/solid_robot/cmake/solid_robotConfig-version.cmake /home/antwoor/moveit_ws/devel/share/solid_robot/cmake/solid_robotConfig-version.cmake
+/home/antwoor/moveit_ws/devel/.private/solid_robot/share/solid_robot/cmake/solid_robotConfig.cmake /home/antwoor/moveit_ws/devel/share/solid_robot/cmake/solid_robotConfig.cmake

@@ -1,0 +1,6 @@
+[31m[1mCMake Error[0m at /home/antwoor/moveit_ws/src/moveit_solid_robot/CMakeLists.txt:29 (target_link_libraries):
+  Cannot specify link libraries for target "texter" which is not built by
+  this project.
+
+
+make: *** [Makefile:1710: cmake_check_build_system] Error 1

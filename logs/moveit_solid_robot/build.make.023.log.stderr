@@ -1,0 +1,16 @@
+[01m[K/home/antwoor/moveit_ws/src/moveit_solid_robot/src/trajectory_1.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/antwoor/moveit_ws/src/moveit_solid_robot/src/trajectory_1.cpp:32:24:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kmoveit::planning_interface::MoveGroupInterface::execute()[m[K’
+   32 |     move_group.execute([01;31m[K)[m[K;
+      |                        [01;31m[K^[m[K
+In file included from [01m[K/home/antwoor/moveit_ws/src/moveit_solid_robot/src/trajectory_1.cpp:1[m[K:
+[01m[K/opt/ros/noetic/include/moveit/move_group_interface/move_group_interface.h:768:33:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kmoveit::core::MoveItErrorCode moveit::planning_interface::MoveGroupInterface::execute(const moveit::planning_interface::MoveGroupInterface::Plan&)[m[K’
+  768 |   moveit::core::MoveItErrorCode [01;36m[Kexecute[m[K(const Plan& plan);
+      |                                 [01;36m[K^~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/moveit/move_group_interface/move_group_interface.h:768:33:[m[K [01;36m[Knote: [m[K  candidate expects 1 argument, 0 provided
+[01m[K/opt/ros/noetic/include/moveit/move_group_interface/move_group_interface.h:771:33:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kmoveit::core::MoveItErrorCode moveit::planning_interface::MoveGroupInterface::execute(const RobotTrajectory&)[m[K’
+  771 |   moveit::core::MoveItErrorCode [01;36m[Kexecute[m[K(const moveit_msgs::RobotTrajectory& trajectory);
+      |                                 [01;36m[K^~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/moveit/move_group_interface/move_group_interface.h:771:33:[m[K [01;36m[Knote: [m[K  candidate expects 1 argument, 0 provided
+make[2]: *** [CMakeFiles/trajectory_1.dir/build.make:63: CMakeFiles/trajectory_1.dir/src/trajectory_1.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:692: CMakeFiles/trajectory_1.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

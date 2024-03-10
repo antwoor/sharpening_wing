@@ -1,0 +1,8 @@
+prefix=/home/antwoor/moveit_ws/devel/.private/solid_robot
+
+Name: solid_robot
+Description: Description of solid_robot
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs
