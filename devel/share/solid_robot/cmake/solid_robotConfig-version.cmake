@@ -1,1 +1,0 @@
-/home/antwoor/moveit_ws/devel/.private/solid_robot/share/solid_robot/cmake/solid_robotConfig-version.cmake
